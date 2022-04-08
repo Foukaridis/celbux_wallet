@@ -40,13 +40,13 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "callback.html": "592b4a74503f1a714be17877db0725bd",
-"main.dart.js": "67d285c8eb888e362a4b8385e1713131",
+"main.dart.js": "e8235bc0847e36d6f1afc6ffacdf82bb",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"index.html": "f53d77d596fd3c4b84156c50b27d5678",
-"/": "f53d77d596fd3c4b84156c50b27d5678",
+"index.html": "1b383269bd12b138adcd1a3dd60ec3d5",
+"/": "1b383269bd12b138adcd1a3dd60ec3d5",
 "manifest.json": "e06bb6fbaebcf1bf9696b83dc2acb19e"
 };
 
